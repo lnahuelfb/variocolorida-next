@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   eslint: { ignoreDuringBuilds: true },
-  runtime: 'experimental-edge',
+  // runtime: 'experimental-edge',
 }
 
 module.exports = nextConfig
